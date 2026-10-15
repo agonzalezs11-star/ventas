@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "producto_id": 3,
+        "tipo_movimiento": "entrada",
+        "cantidad": 30,
+        "fecha": "14/10/2026",
+        "detalle": "ingreso de   CREAR MOVIMIENTO DE INVENTARIO"
+    },
+    {
+        "id": 2,
+        "producto_id": 3,
+        "tipo_movimiento": "entrada",
+        "cantidad": 30,
+        "fecha": "15/10/2026",
+        "detalle": "ingreso de papas fritas"
+    }
+]
